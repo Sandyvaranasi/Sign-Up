@@ -1,3 +1,7 @@
 # Sign-Up
 
-Start the server using npm start command in terminal.
+Start the server using 
+```bash
+npm start
+```
+command in terminal.
